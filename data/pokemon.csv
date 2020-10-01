@@ -590,7 +590,7 @@
 519.png,519.jpg,519,Pidove,Pidove,519,Normal,Flying,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
 520.png,520.jpg,520,Tranquill,Tranquill,520,Normal,Flying,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
 521.png,521.jpg,521,Unfezant,Unfezant,521,Normal,Flying,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-521-f.png,521-f.jpg,521-f,Unfezant-f,Unfezant,521,Normal,Flying,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+521f.png,521f.jpg,521-f,Unfezant-f,Unfezant,521,Normal,Flying,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
 522.png,522.jpg,522,Blitzle,Blitzle,522,Electric,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 523.png,523.jpg,523,Zebstrika,Zebstrika,523,Electric,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 524.png,524.jpg,524,Roggenrola,Roggenrola,524,Rock,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
@@ -670,9 +670,9 @@
 590.png,590.jpg,590,Foongus,Foongus,590,Grass,Poison,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
 591.png,591.jpg,591,Amoonguss,Amoonguss,591,Grass,Poison,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
 592.png,592.jpg,592,Frillish,Frillish,592,Water,Ghost,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
-592-f.png,592-f.jpg,592-f,Frillish-f,Frillish,592,Water,Ghost,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+592f.png,592f.jpg,592-f,Frillish-f,Frillish,592,Water,Ghost,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
 593.png,593.jpg,593,Jellicent,Jellicent,593,Water,Ghost,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
-593-f.png,593-f.jpg,593-f,Jellicent-f,Jellicent,593,Water,Ghost,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+593f.png,593f.jpg,593-f,Jellicent-f,Jellicent,593,Water,Ghost,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
 594.png,594.jpg,594,Alomomola,Alomomola,594,Water,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 595.png,595.jpg,595,Joltik,Joltik,595,Bug,Electric,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 596.png,596.jpg,596,Galvantula,Galvantula,596,Bug,Electric,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -756,7 +756,7 @@
 666-elegant.png,666-elegant.jpg,666-elegant,Vivillon-elegant,Vivillon,666,Bug,Flying,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 667.png,667.jpg,667,Litleo,Litleo,667,Fire,Normal,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
 668.png,668.jpg,668,Pyroar,Pyroar,668,Fire,Normal,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
-668f.png,668-f.jpg,668-f,Pyroar-f,Pyroar,668,Fire,Normal,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+668f.png,668f.jpg,668-f,Pyroar-f,Pyroar,668,Fire,Normal,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
 669.png,669.jpg,669,Flabébé,Flabébé,669,Fairy,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 670.png,670.jpg,670,Floette,Floette,670,Fairy,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 671.png,671.jpg,671,Florges,Florges,671,Fairy,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -770,7 +770,7 @@
 676-star.png,676-star.jpg,676-star,Furfrou-star,Furfrou,676,Normal,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 677.png,677.jpg,677,Espurr,Espurr,677,Psychic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 678.png,678.jpg,678,Meowstic,Meowstic,678,Psychic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-678-f.png,678-f.jpg,678-f,Meowstic-f,Meowstic,678,Psychic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+678f.png,678f.jpg,678-f,Meowstic-f,Meowstic,678,Psychic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 679.png,679.jpg,679,Honedge,Honedge,679,Steel,Ghost,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
 680.png,680.jpg,680,Doublade,Doublade,680,Steel,Ghost,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
 681.png,681.jpg,681,Aegislash,Aegislash,681,Steel,Ghost,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
