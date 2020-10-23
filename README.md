@@ -11,7 +11,7 @@ The dataset has 256x256 sized pictures, but in our model, we downsize the images
 
 ## Model
 
-![Model image](https://raw.githubusercontent.com/markangelogabriel/pokemon-type-gan/master/presentation/model.jpg)
+![Model image](https://raw.githubusercontent.com/markangelogabriel/pokemon-type-gan/master/presentation/model.png)
 
 ## Outputs
 
