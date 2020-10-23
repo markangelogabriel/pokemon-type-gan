@@ -29,6 +29,8 @@ Note: The number labels are the discriminator scores on the generated images.
 
 ![Frankenstein Pokemon](https://raw.githubusercontent.com/markangelogabriel/pokemon-type-gan/master/presentation/all_elements.png)
 
+The models were only trained with real pokemon type combinations, so an idea of a pokemon containing all elements is foreign to the model so the above is expected. 
+
 ### One element per column
 
 Pokemon elements in alphabetical order (and same order as the below image): 
@@ -52,8 +54,6 @@ Pokemon elements in alphabetical order (and same order as the below image):
 1. Water
 
 ![One element per column](https://raw.githubusercontent.com/markangelogabriel/pokemon-type-gan/master/presentation/each_element.png)
-
-The models were only trained with real pokemon type combinations, so an idea of a pokemon containing all elements is foreign to the model so the above is expected. 
 
 ## References
 
