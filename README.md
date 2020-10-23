@@ -3,6 +3,12 @@
 Generative adversarial networks (GANs) are a generative machine learning method designed in 2014 [1]. It comprises of two networks working in tandem: the Discriminator, which is trained to be able to tell the probability of the input to be real, and the Generator, which attempts to fool the Discriminator by creating believably real, but fake data points. 
 Conditional GANs add another layer into the Discriminator and Generator, where the Generator tries to create fake data points belonging to class K, and the Discriminator tries to discern if a data point is real and is of class K. 
 
+## How to run
+
+Host conditional_pokemon_type_gan.ipynb on Google colab or your own Jupyter Notebook instance and run it!
+
+Pretrained models are available under the models/ folder. 
+
 ## Dataset
 
 [Pokemon Images Dataset](https://www.kaggle.com/kvpratama/pokemon-images-dataset) - contains 819 Pokemon images of size 256x256
